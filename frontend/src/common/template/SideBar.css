@@ -1,0 +1,15 @@
+.SideBar .menu-lg{
+    height: 90vh;
+}
+.SideBar {
+    
+    background: white;
+    box-shadow: 0px 0px 3px -1px #5757578e;
+}
+.canvas-h {
+    color: white;
+    background-color: #4C60DA !important;
+}
+.canvas-b{
+    padding: 0px !important;
+} 

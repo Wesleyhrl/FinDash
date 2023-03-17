@@ -1,0 +1,25 @@
+.Menu a,.Menu button {
+    color: #33333a;
+    font-weight: bold;
+}
+.Menu ul{
+    padding: 5px 0;
+    padding-right: 10px;
+    list-style: none;
+    font-size: 1.1rem;
+}
+.Menu a{
+    text-decoration: none;
+}
+.Menu a:hover , .Menu button:hover {
+    transition: color 0.4s;
+    color: #4C60DA !important;
+}
+.Menu li{
+    padding: 5px;
+    border-left: solid 3px #00000000;
+}
+.Menu li:hover {
+    border-left: solid 3px #4C60DA;
+    
+}

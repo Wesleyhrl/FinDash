@@ -1,0 +1,12 @@
+.Header nav{
+    background: #6777EF !important;
+    padding: 10px;
+}
+.Header button {
+    line-height: 0px;
+    padding: 5px;
+    font-size: 22px;
+    color: white;
+    border: none;
+    background: none;
+}
